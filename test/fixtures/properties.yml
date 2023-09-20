@@ -1,0 +1,47 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  sold_date: 2023-09-19
+  property_type: MyString
+  address: MyString
+  city: MyString
+  state: MyString
+  zip: 1
+  price: 9.99
+  beds: 1
+  baths: 1
+  square_feet: 1
+  lot_size: 1
+  year_built: 1
+  days_on_market: 1
+  monthly_hoa: 1
+  mls_number: MyString
+  identifier: MyString
+  latitude: 1.5
+  longitude: 1.5
+  description: MyText
+  upvotes_count: 1
+  downvotes_count: 1
+
+two:
+  sold_date: 2023-09-19
+  property_type: MyString
+  address: MyString
+  city: MyString
+  state: MyString
+  zip: 1
+  price: 9.99
+  beds: 1
+  baths: 1
+  square_feet: 1
+  lot_size: 1
+  year_built: 1
+  days_on_market: 1
+  monthly_hoa: 1
+  mls_number: MyString
+  identifier: MyString
+  latitude: 1.5
+  longitude: 1.5
+  description: MyText
+  upvotes_count: 1
+  downvotes_count: 1
