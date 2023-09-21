@@ -8,6 +8,9 @@ gem "rails", "~> 7.0.8"
 
 gem 'rack-cors'
 
+gem 'kaminari'
+
+
 # Use sqlite3 as the database for Active Record
 gem "sqlite3", "~> 1.4"
 
