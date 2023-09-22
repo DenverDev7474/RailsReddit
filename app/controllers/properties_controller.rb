@@ -31,6 +31,6 @@ class PropertiesController < ApplicationController
     def show
         @property = Property.find(params[:id])
         render json: @property
-      end
+    end
 
 end
